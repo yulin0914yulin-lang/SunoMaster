@@ -1,0 +1,5 @@
+{
+  "name": "Copy of ProtoGen AI",
+  "description": "A rapid prototyping tool that uses Gemini AI to generate UI layouts from text descriptions, featuring drag-and-drop customization and real-time property editing.",
+  "requestFramePermissions": []
+}
